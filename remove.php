@@ -35,7 +35,7 @@
                 <td>$i</td>
                 <td>$multi</td>
                 <td><a href='transition.php?number=$number&end=$end&line=$i' target='_blank'>Update</a>
-                    <a href='remove.php?number=$number&end=$end&remove=$i'>Remove</a>
+                    <a href='remove.php?number=$number&end=$end&remove=$i' target='_blank'>Remove</a>
                 </td>
             </tr>
             ";
