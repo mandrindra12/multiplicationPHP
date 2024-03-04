@@ -1,0 +1,23 @@
+body
+{
+    color: #000000;
+    padding: 0px;
+}
+form{
+    width: 50%;
+    margin: auto;
+}
+
+.buttons{
+   display: inline;
+   margin-top: 20px;
+}
+table, tr, td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    width: 50%;
+    margin: auto;
+}
+tr, td {
+    vertical-align: center;
+}
